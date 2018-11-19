@@ -6,12 +6,14 @@ var questionHeight;
 var megamanAnimation;
 var megamanAnimationID;
 var damageAnimationTime;
-var lockDamageAnimation;
 var runningAnimationSpeed;
 var runningAnimationTime;
-var locked;
-
 var numberOfAnswers;
+
+
+var locked;
+var lockDamageAnimation;
+
 
 function animationPreload()
 {
